@@ -60,7 +60,7 @@ ___
 
 - If the temperature changes by more than 0.1 degrees from the previous reading, it updates and displays the new reading on the Serial Monitor.
   
-## Motion & Temp Monitor Picture
+## Motion & Temperature Monitor Picture
 
 ![Screenshot 2025-01-10 174850](https://github.com/user-attachments/assets/25ee2cca-69c5-4740-a66d-68895eedd5fe)
 
