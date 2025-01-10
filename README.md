@@ -62,7 +62,7 @@ ___
   
 ## Motion & Temperature Monitor Picture
 
-![Screenshot 2025-01-10 174850](https://github.com/user-attachments/assets/25ee2cca-69c5-4740-a66d-68895eedd5fe)
+![Screenshot 2025-01-10 174850](https://github.com/user-attachments/assets/4f1e7286-870a-45e1-9886-53de6ab75ab8)
 
 ## Conclusion
 
